@@ -1,0 +1,20 @@
+Kathryn Rickabaugh
+October 23, 2022
+CS 470 Final Reflection
+https://youtu.be/rHaeYEjFCbw 
+
+Experiences and Strengths
+
+This course has taught me how to move a MEAN stack application to an AWS serverless application. It completes my degree path requirements and helps me apply new skills to a real-world scenario. We learned to containerize the MEAN stack first and then modified it to become serverless. We used Docker to package the containers and Docker Compose to orchestrate. Other skills revolve around AWS including S3 storage, API Lambda logic and scripts, DynamoDB queries and scripts, and IAM security. We utilized the Angular CLI and the advantages of cloud computing. 
+
+Some cloud computing career paths I am prepared to apply for would be a cloud app developer, cloud engineer, cloud architect, and possibly a cloud security manager. Most careers are role-based, and it would depend on where in the process I’m most interested. 
+
+Planning for Growth
+
+Serverless refers to the cloud-based services that allow an application to run without having to manage every service. The developer provides the logic and requirements while the serverless provider supplies the mechanics beneath the logic. Some advantages include less cost upfront with a variable expense model. The application can scale with company needs either up or down. Not having to maintain servers allows more focus on customers and an increase in productivity. The application can also be deployed to multiple regions in the world within minutes. 
+
+Containerizing the application allows for easier migration to other environments. It also helps with moving, scaling, and deploying quickly. Containers support microservices more easily. Other benefits include deploying applications to different operating systems and building solutions based on platform needs. Containers can be set up for free, but management costs will depend on the application. However, containers need a long-running hosting location and can cost more to run than serverless. 
+
+Some pros for going serverless include not having to manage every service, scaling with company needs either up or down, built-in security with IAM, and cost-effective benefits. The application can scale automatically and will have elasticity with the pay-as-you-go options. AWS allows the developer to add or remove resources as needed. This can be beneficial when the company is doing well with large-scale sales. Some cons would be not having full control over the application. Some developers aren’t favorable to third-party managed servers. 
+
+Serverless architecture and containers both offer benefits depending on what the end goal is for the application and the company. The use of both together can help with migrating on-premises applications to the cloud. 
